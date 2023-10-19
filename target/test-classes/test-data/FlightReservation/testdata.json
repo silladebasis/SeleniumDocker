@@ -1,0 +1,11 @@
+{
+  "firstName": "John",
+  "lastName": "Wright",
+  "email": "john.wright@gmail.com",
+  "password": "john123",
+  "street": "344 main street",
+  "city": "London",
+  "zipcode": "33902",
+  "passengerCount": 1,
+  "expectedPrice": "$584 USD"
+}
